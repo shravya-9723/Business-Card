@@ -1,0 +1,26 @@
+body {
+    margin: 20px;
+     font-family: "Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
+}
+
+.avatar {
+    width: 130px;
+}
+
+.card {
+    width: 400px;
+    margin:0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #FFC75F;
+    color: #D65DB1;
+    border-bottom: 6px solid #40916C;
+}
+
+.card:hover {
+    box-shadow: 0 15px 20px 0 rgba(10, 73, 9, 0.737);
+    transition :box-shadow 0.3s ease-in-out;
+}
+
