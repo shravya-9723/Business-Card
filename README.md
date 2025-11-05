@@ -1,17 +1,23 @@
 # Business-Card
 # 🌟 Business Card Website
 
-A modern and responsive digital business card built using **HTML**, **CSS**, and **JavaScript** (powered by **Vite**).  
-This project showcases a simple yet elegant way to display your professional profile online.
+A modern and responsive **digital business card** built using **HTML**, **CSS**, and **JavaScript** (powered by **Vite**).  
+This project showcases a simple yet elegant way to display your professional identity online.
+
+---
+
+## 🔗 Live Demo
+
+👉 **[View the Live Website](https://card-38d79c.netlify.app/)**
 
 ---
 
 ## 🚀 Features
 
-- Responsive design (mobile + desktop friendly)
-- Clean layout with custom styling
-- Easy to edit name, contact info, and links
-- Fast build and local preview using Vite
+- 💻 Responsive design (works on both desktop and mobile)
+- 🎨 Clean layout with modern styling
+- 🧾 Easy to customize name, contact info, and links
+- ⚡ Fast build and preview powered by **Vite**
 
 ---
 
@@ -19,19 +25,20 @@ This project showcases a simple yet elegant way to display your professional pro
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)
 - **Build Tool:** Vite
+- **Hosting:** Netlify
 - **Version Control:** Git & GitHub
 
 ---
 
 ## ⚙️ Installation and Setup
 
-Follow these steps to run the project locally:
+To run the project locally:
 
 ```bash
 # 1️⃣ Clone this repository
 git clone https://github.com/shravya-9723/Business-Card.git
 
-# 2️⃣ Navigate to the project directory
+# 2️⃣ Navigate to the project folder
 cd Business-Card
 
 # 3️⃣ Install dependencies
@@ -42,5 +49,4 @@ npm start
 
 ## 🧑‍💻 Author
 
-**Shravya Palegarthuli**  
-[GitHub Profile](https://github.com/shravya-9723)
+👩‍💻 **[Shravya Palegarthuli](https://github.com/shravya-9723)**
