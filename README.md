@@ -50,3 +50,9 @@ npm start
 ## 🧑‍💻 Author
 
 👩‍💻 **[Shravya Palegarthuli](https://github.com/shravya-9723)**
+
+## 🙏 Acknowledgements
+
+A huge thanks to the **[Scrimba Community](https://scrimba.com/)** and **[Per Harald Borgen](https://github.com/perborgen)** for their excellent tutorials and guidance that helped me build this project.  
+Their interactive lessons and hands-on approach made learning web development fun and effective!
+
