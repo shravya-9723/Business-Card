@@ -40,3 +40,7 @@ npm install
 # 4️⃣ Start the development server
 npm start
 
+## 🧑‍💻 Author
+
+**Shravya Palegarthuli**  
+[GitHub Profile](https://github.com/shravya-9723)
