@@ -53,6 +53,9 @@ npm start
 
 ## 🙏 Acknowledgements
 
-A huge thanks to the **[Scrimba Community](https://scrimba.com/)** and **[Per Harald Borgen](https://github.com/perborgen)** for their excellent tutorials and guidance that helped me build this project.  
-Their interactive lessons and hands-on approach made learning web development fun and effective!
+A heartfelt thanks to the incredible **[Scrimba Community](https://scrimba.com/)** for providing such an engaging platform to learn and grow as a developer.  
+
+Special appreciation to **[Per Harald Borgen](https://github.com/perborgen)** — co-founder of Scrimba and a fantastic mentor — for his guidance, teaching style, and inspiration throughout this project.  
+Your tutorials made building this Business Card project both fun and educational!
+
 
