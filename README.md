@@ -51,11 +51,13 @@ npm start
 
 👩‍💻 **[Shravya Palegarthuli](https://github.com/shravya-9723)**
 
-
-
 ## 🙏 Acknowledgements
 
 A heartfelt thanks to the incredible **[Scrimba Community](https://scrimba.com/)** for providing such an engaging platform to learn and grow as a developer.  
+
+Special appreciation to **[Per Harald Borgen](https://github.com/perborgen)** — co-founder of Scrimba and a fantastic mentor — for his guidance, teaching style, and inspiration throughout this project.  
+Your tutorials made building this Business Card project both fun and educational!
+
 
 Special appreciation to **[Per Harald Borgen](https://github.com/perborgen)** — co-founder of Scrimba and a fantastic mentor — for his guidance, teaching style, and inspiration throughout this project.  
 Your tutorials made building this Business Card project both fun and educational!
